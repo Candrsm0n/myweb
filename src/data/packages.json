@@ -1,0 +1,54 @@
+[
+  {
+    "id": "home-10",
+    "name": "HOME 10",
+    "speedMbps": 10,
+    "monthlyPrice": 200000,
+    "deviceLimit": 4,
+    "deviceLabel": "Hingga 4 perangkat",
+    "quota": "Unlimited*",
+    "fup": "Detail kebijakan FUP dikonfirmasi sebelum aktivasi.",
+    "description": "Pas untuk browsing, chat, dan kebutuhan ringan di rumah atau kost.",
+    "featured": false,
+    "badge": null
+  },
+  {
+    "id": "home-20",
+    "name": "HOME 20",
+    "speedMbps": 20,
+    "monthlyPrice": 250000,
+    "deviceLimit": 5,
+    "deviceLabel": "Hingga 5 perangkat",
+    "quota": "Unlimited*",
+    "fup": "Detail kebijakan FUP dikonfirmasi sebelum aktivasi.",
+    "description": "Nyaman untuk keluarga dengan aktivitas online harian dan video call.",
+    "featured": true,
+    "badge": "FAVORIT"
+  },
+  {
+    "id": "home-30",
+    "name": "HOME 30",
+    "speedMbps": 30,
+    "monthlyPrice": 350000,
+    "deviceLimit": 7,
+    "deviceLabel": "Hingga 7 perangkat",
+    "quota": "Unlimited*",
+    "fup": "Detail kebijakan FUP dikonfirmasi sebelum aktivasi.",
+    "description": "Bandwidth lebih lega untuk streaming, belajar, dan kerja dari rumah.",
+    "featured": false,
+    "badge": null
+  },
+  {
+    "id": "home-40",
+    "name": "HOME 40",
+    "speedMbps": 40,
+    "monthlyPrice": 450000,
+    "deviceLimit": 10,
+    "deviceLabel": "8–10 perangkat",
+    "quota": "Unlimited*",
+    "fup": "Detail kebijakan FUP dikonfirmasi sebelum aktivasi.",
+    "description": "Pilihan untuk banyak perangkat yang aktif bersamaan di rumah atau kantor.",
+    "featured": false,
+    "badge": "BANDWIDTH MAKSIMAL"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "name": "astrahome-wifi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 3000",
+    "typecheck": "tsc -b",
+    "build": "npm run typecheck && vite build",
+    "start": "vite preview --host 127.0.0.1 --port 3000",
+    "preview": "vite preview --host 127.0.0.1 --port 3000",
+    "zip": "node zip-build.js"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^24.7.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "archiver": "^7.0.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}

@@ -1,0 +1,1 @@
+export function PageHeading({eyebrow,title,accent,description}:{eyebrow:string;title:string;accent:string;description:string}){return <header className="page-heading"><span className="kicker">{eyebrow}</span><h1>{title}<br/><em>{accent}</em></h1><p>{description}</p></header>}

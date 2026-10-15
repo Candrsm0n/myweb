@@ -1,0 +1,3 @@
+/// <reference types="vite/client" />
+interface ImportMetaEnv { readonly VITE_ALLOWED_HOSTS?: string }
+interface ImportMeta { readonly env: ImportMetaEnv }

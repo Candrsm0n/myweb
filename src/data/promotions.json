@@ -1,0 +1,30 @@
+[
+  {
+    "id": "installation",
+    "title": "Gratis biaya pasang",
+    "description": "Promo pemasangan gratis sesuai jangkauan dan ketentuan area.",
+    "label": "HEMAT BIAYA AWAL",
+    "icon": "sparkles"
+  },
+  {
+    "id": "router",
+    "title": "Router dual-band",
+    "description": "Perangkat router mengikuti ketersediaan dan ketentuan paket.",
+    "label": "WI-FI LEBIH NYAMAN",
+    "icon": "router"
+  },
+  {
+    "id": "monthly",
+    "title": "Bayar bulanan di awal",
+    "description": "Siklus langganan bulanan dibayarkan di awal periode layanan.",
+    "label": "TAGIHAN JELAS",
+    "icon": "calendar"
+  },
+  {
+    "id": "tax",
+    "title": "Info PPN transparan",
+    "description": "Konfirmasi status PPN dan rincian total biaya saat pemesanan.",
+    "label": "TANPA BIAYA MENDADAK",
+    "icon": "receipt"
+  }
+]

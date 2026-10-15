@@ -1,0 +1,2 @@
+import {FAQ} from "../components/FAQ";import {PageHeading} from "./PageHeading";
+export function FAQPage(){return <main className="page-shell"><div className="container"><PageHeading eyebrow="PUSAT BANTUAN" title="Informasi layanan" accent="AstraHOME WiFi." description="Jawaban ringkas tentang paket, pemasangan, pembayaran, dan pengecekan area."/><FAQ/></div></main>}

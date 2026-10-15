@@ -1,0 +1,2 @@
+import {CoverageChecker} from "../components/CoverageChecker";import {PageHeading} from "./PageHeading";
+export function CoveragePage(){return <main className="page-shell"><div className="container"><PageHeading eyebrow="CEK JARINGAN" title="Pastikan tersedia" accent="di lokasi pemasangan." description="Cakupan perlu dikonfirmasi berdasarkan alamat dan ketersediaan jaringan. Kirim lokasi ke tim kami untuk pengecekan."/><CoverageChecker/></div></main>}

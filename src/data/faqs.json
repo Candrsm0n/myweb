@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Apa saja paket internet yang tersedia?",
+    "answer": "Saat ini halaman menampilkan paket 10, 20, 30, dan 40 Mbps. Harga serta ketersediaan perlu dikonfirmasi kepada tim saat pemesanan.",
+    "category": "Paket"
+  },
+  {
+    "question": "Apakah paket benar-benar unlimited?",
+    "answer": "Paket pada materi promosi disebut unlimited. Ketentuan FUP atau pemakaian wajar belum dicantumkan rinci, jadi mintalah informasi resmi sebelum aktivasi.",
+    "category": "Paket"
+  },
+  {
+    "question": "Apakah biaya pemasangan gratis?",
+    "answer": "Materi promosi mencantumkan gratis biaya pasang. Promo dapat bergantung pada area dan syarat pemasangan; tim akan mengonfirmasi sebelum kunjungan.",
+    "category": "Pemasangan"
+  },
+  {
+    "question": "Bagaimana cara mengecek jaringan di alamat saya?",
+    "answer": "Isi area dan alamat di bagian cek cakupan. Pesan akan disiapkan ke WhatsApp untuk pemeriksaan ketersediaan jaringan oleh tim.",
+    "category": "Cakupan"
+  },
+  {
+    "question": "Apakah kalkulator bandwidth menjamin kecepatan tertentu?",
+    "answer": "Tidak. Kalkulator memberi rekomendasi awal berdasarkan jumlah HP, komputer, dan TV. Kecepatan aktual dipengaruhi penggunaan bersamaan, perangkat, Wi-Fi, serta kondisi jaringan.",
+    "category": "Teknis"
+  },
+  {
+    "question": "Bagaimana pembayaran langganan dilakukan?",
+    "answer": "Materi yang diberikan menyebut pembayaran bulanan di awal. Cara bayar, tanggal tagihan, PPN, dan biaya aktivasi perlu dikonfirmasi melalui kanal resmi perusahaan.",
+    "category": "Pembayaran"
+  },
+  {
+    "question": "Apakah saya bisa membatalkan atau mengubah jadwal pemasangan?",
+    "answer": "Hubungi tim melalui WhatsApp untuk meminta perubahan. Kebijakan perubahan jadwal dan pembatalan dikonfirmasi saat pendaftaran.",
+    "category": "Pemasangan"
+  },
+  {
+    "question": "Informasi apa yang diperlukan untuk mendaftar?",
+    "answer": "Nama, nomor WhatsApp, paket yang dipilih, alamat lengkap, serta koordinat jika tersedia. Situs menyusun informasi tersebut menjadi draf pesan WhatsApp.",
+    "category": "Pendaftaran"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "basis": "Rekomendasi mengikuti batas jumlah perangkat pada materi paket AstraHOME.",
+  "recommendationNote": "Jumlah perangkat adalah patokan flyer. Aktivitas bersamaan, kualitas Wi-Fi, dan kondisi jaringan dapat memengaruhi pengalaman internet.",
+  "deviceRates": [
+    { "id": "phones", "label": "HP / Smartphone", "shortLabel": "HP", "icon": "smartphone" },
+    { "id": "computers", "label": "PC / Laptop", "shortLabel": "PC / Laptop", "icon": "laptop" },
+    { "id": "tvs", "label": "Smart TV", "shortLabel": "TV", "icon": "tv" }
+  ]
+}
